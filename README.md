@@ -4,8 +4,7 @@
 [![Linux Build](https://img.shields.io/github/actions/workflow/status/VitaSmith/cdecrypt/linux.yml?style=flat-square&label=Linux%20Build)](https://github.com/VitaSmith/cdecrypt/actions/workflows/linux.yml)
 [![Github stats](https://img.shields.io/github/downloads/VitaSmith/cdecrypt/total.svg?style=flat-square)](https://github.com/VitaSmith/cdecrypt/releases)
 [![Latest release](https://img.shields.io/github/release-pre/VitaSmith/cdecrypt?style=flat-square)](https://github.com/VitaSmith/cdecrypt/releases)
-
-### Description
+gng ### Description
 
 A utility that decrypts Wii U NUS content files.
 
